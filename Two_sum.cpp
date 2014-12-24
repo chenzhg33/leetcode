@@ -29,6 +29,5 @@ int main() {
 	if (re.size() != 0) {
 		cout << re[0] << ' ' << re[1] << endl;
 	}
-	system("pause");
 	return 0;
 }
